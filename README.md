@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Repository for My First React App, MovieLand
+
+## Deployed Website : https://lintang-movieland.netlify.app/
+
+This repository is the repository for my first React JS app/website. This MovieLand application can be seen at: https://lintang-movieland.netlify.app/ which has been deployed using netlify.
+
+This application is inspired and modified from a YouTube video created by the JavaScript Mastery channel. Here is the YouTube channel: https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A.
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
